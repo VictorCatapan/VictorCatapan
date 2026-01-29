@@ -1,6 +1,6 @@
 💻 **Técnico em Análise e Desenvolvimento de Sistemas | Análise de Sistemas | Desenvolvimento de Sistemas | Java | Java Script | Python | HTML | CSS**
 
-Sou o Victor, recém-formado pelo CEEP de Fazenda Rio Grande – PR, com forte interesse em tecnologia, desenvolvimento de soluções e aprendizado contínuo.  Atualmente, estou cursando nível superior tecnólogo em Análise e Desenvolvimento de Sistemas, aprofundando ainda mais meus conhecimentos em programação, lógica, sistemas e desenvolvimento de aplicações.
+Recém-formado pelo CEEP de Fazenda Rio Grande – PR, com forte interesse em tecnologia, desenvolvimento de soluções e aprendizado contínuo.  Atualmente, estou cursando nível superior tecnólogo em Análise e Desenvolvimento de Sistemas, aprofundando ainda mais meus conhecimentos em programação, lógica, sistemas e desenvolvimento de aplicações.
 Busco uma oportunidade de estágio ou emprego na área de tecnologia, onde eu possa desenvolver ainda minhas habilidades técnicas e práticas, contribuir com a equipe e crescer profissionalmente.
 Acredito no poder da tecnologia como ferramenta de transformação e impacto social. Meu objetivo é criar soluções cada vez mais eficientes que possam impactar positivamente a vida das pessoas.
 Estou aberto a novos desafios, aprendizado constante e oportunidades que me permitam evoluir como profissional de TI
